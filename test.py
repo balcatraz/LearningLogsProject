@@ -9,3 +9,7 @@
 #   py manage.py createsuperuser                // creates an admin
 #
 # add app to settings in project folder
+#
+# template tags = {%    %}
+# template variable = {{    }}
+#
