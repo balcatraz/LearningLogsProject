@@ -13,3 +13,9 @@
 # template tags = {%    %}
 # template variable = {{    }}
 #
+#
+# two types of requests being processed:
+#   get
+#   post
+#
+#
